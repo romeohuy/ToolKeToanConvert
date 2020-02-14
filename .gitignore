@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/src/ToolKeToanConvertWindowsForms/.vs/ToolKeToanConvertWindowsForms/v16
+/src/ToolKeToanConvertWindowsForms/bin/Debug
+/src/ToolKeToanConvertWindowsForms/obj/Debug
+/src/KeToanDTO/obj/Debug
+/src/KeToanBusinessLogic/obj/Debug
+/src/KeToanBusinessLogic/bin/Debug
+/src/KeToanDTO/bin/Debug
+/src/ToolKeToanConvertWindowsForms/packages
